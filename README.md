@@ -10,7 +10,8 @@
 
 Demo of prediction form:
 
-![DrugPredictor UI]![Screenshot 2025-06-12 205808](https://github.com/user-attachments/assets/cb877bef-0508-45bc-b2d3-5b2a573d3042)
+![DrugPredictor UI]!![image](https://github.com/user-attachments/assets/e24a7233-f22d-44e6-818e-a58d1f8c3fe0)
+
 
 
 ---
